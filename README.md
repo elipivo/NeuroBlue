@@ -14,4 +14,4 @@ The device will be built through Fall 2016 semester.
 	email: gyorgy.levay@gmail.com
 * Elijah Pivo - Bluetooth communication developer
 	email: epivo1@jhu.edu
-* Another guy I don't know the name of - GUI developer
+* Paul Kim - GUI developer
