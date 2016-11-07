@@ -36,7 +36,7 @@ void sendByte(int client, uint8_t byte) {
 }
 
 uint8_t readByte(int client) {
-	uint8_t byte = null;
+	uint8_t byte = 0;
 	read(client, (char*) &byte, sizeof(byte));
 	return byte;
 }
